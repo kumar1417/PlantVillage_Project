@@ -1,0 +1,14 @@
+PlantVillage Dataset
+
+Official TensorFlow Dataset:
+https://www.tensorflow.org/datasets/catalog/plant_village
+
+Classes Used:
+- Apple___healthy
+- Apple___Black_rot
+- Corn___healthy
+- Potato___Late_blight
+- Tomato___healthy
+
+Total Images Used:
+5336

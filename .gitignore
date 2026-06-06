@@ -1,8 +1,7 @@
-__pycache__/
-.ipynb_checkpoints/
-
 dataset/
-processed_dataset/
-
-*.h5
+PlantVillage_5Class/
 *.keras
+*.h5
+*.txt
+.ipynb_checkpoints/
+__pycache__/

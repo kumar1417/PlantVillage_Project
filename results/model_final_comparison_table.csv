@@ -1,0 +1,4 @@
+Model,Final Train Accuracy,Final Val Accuracy,Final Train Loss,Final Val Loss
+ResNet50,65.86%,72.61%,0.887,0.8211
+DenseNet121,99.55%,98.90%,0.0147,0.0243
+MobileNetV3,54.80%,63.24%,1.094,1.0599
